@@ -1,0 +1,19 @@
+{
+  "name": "astro-storyblok-netlify",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@storyblok/astro": "^4.0.0",
+    "astro": "^4.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.0.2"
+  }
+}
